@@ -13,6 +13,7 @@
 </div>
 
 ---
+![RAG pipeline](./img/RAG-pipeline.png)
 
 ## 🎯 What is This?
 
