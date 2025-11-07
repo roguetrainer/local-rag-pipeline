@@ -1,0 +1,22 @@
+
+Natural Language Processing and Transformers
+
+Natural Language Processing (NLP) enables computers to understand, interpret, and 
+generate human language. It combines computational linguistics with machine learning.
+
+Key NLP Tasks:
+- Text Classification: Categorizing text into predefined classes
+- Named Entity Recognition: Identifying entities like names, locations
+- Sentiment Analysis: Determining emotional tone
+- Machine Translation: Translating between languages
+- Question Answering: Providing answers to natural language questions
+- Text Summarization: Creating concise summaries
+
+The Transformer Revolution:
+Transformers, introduced in 2017, use self-attention mechanisms to process sequences 
+in parallel rather than sequentially. This architecture powers models like:
+- BERT: Bidirectional Encoder Representations from Transformers
+- GPT: Generative Pre-trained Transformer
+- T5: Text-to-Text Transfer Transformer
+
+These models have achieved state-of-the-art results across numerous NLP benchmarks.

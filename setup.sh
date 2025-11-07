@@ -5,6 +5,8 @@ echo "🚀 Setting up Local RAG Pipeline..."
 echo ""
 
 # Check Python version
+# Comment out or modify the alias as necessary
+alias python3='/usr/local/bin/python3' 
 echo "📋 Checking Python version..."
 python_version=$(python3 --version 2>&1 | awk '{print $2}')
 required_version="3.8"

@@ -1,0 +1,23 @@
+
+Data Science: Extracting Insights from Data
+
+Data science is an interdisciplinary field that uses scientific methods, processes, 
+algorithms, and systems to extract knowledge and insights from structured and 
+unstructured data.
+
+Data Science Workflow:
+1. Data Collection: Gathering relevant data from various sources
+2. Data Cleaning: Handling missing values, outliers, and inconsistencies
+3. Exploratory Data Analysis: Understanding patterns and relationships
+4. Feature Engineering: Creating relevant features for modeling
+5. Model Building: Developing predictive or descriptive models
+6. Model Evaluation: Assessing model performance
+7. Deployment: Putting models into production
+
+Essential Tools:
+- Python: Primary programming language with pandas, NumPy, matplotlib
+- R: Statistical computing and graphics
+- SQL: Database querying
+- Jupyter: Interactive development environment
+
+Data scientists combine domain knowledge, programming skills, and statistical expertise.

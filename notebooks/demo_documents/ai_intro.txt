@@ -1,0 +1,14 @@
+
+Artificial Intelligence (AI) Overview
+
+Artificial Intelligence is the simulation of human intelligence processes by machines, 
+especially computer systems. These processes include learning, reasoning, and self-correction.
+
+Key AI Concepts:
+- Machine Learning: Systems that learn from data
+- Deep Learning: Neural networks with multiple layers
+- Natural Language Processing: Understanding human language
+- Computer Vision: Understanding visual information
+
+AI applications are transforming industries including healthcare, finance, transportation, 
+and education. The field combines computer science, mathematics, and cognitive science.
