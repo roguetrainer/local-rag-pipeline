@@ -479,9 +479,8 @@ Answer:"""
             )
 
         # Save knowledge graph
-        nx.write_gpickle(
-            self.knowledge_graph, self.storage_path / "knowledge_graph.gpickle"
-        )
+        with open(self.storage_path / "knowledge_graph.gpickle", "wb") as f:
+            pickle.dump(self.knowledge_graph, f)
 
         print(f"Pipeline saved to {self.storage_path}")
 
@@ -501,9 +500,8 @@ Answer:"""
 
         # Load knowledge graph
         if (self.storage_path / "knowledge_graph.gpickle").exists():
-            self.knowledge_graph = nx.read_gpickle(
-                self.storage_path / "knowledge_graph.gpickle"
-            )
+            with open(self.storage_path / "knowledge_graph.gpickle", "rb") as f:
+                self.knowledge_graph = pickle.load(f)
 
         print(f"Pipeline loaded from {self.storage_path}")
 
